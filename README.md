@@ -12,7 +12,7 @@
 Day | Class Link
 ------------ | -------------
 Day 1 | [Read 01](https://rubabanat.github.io/Reading-Nots-401/read-01)
-Day 2 | [Read 02]()
+Day 2 | [Read 02](https://rubabanat.github.io/Reading-Nots-401/read-02)
 Day 3 | [Read 03]()
 Day 4 | [Read 04]()
 Day 5 | [Read 05]()
