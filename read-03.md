@@ -46,4 +46,29 @@ Behavioral Testing | Testing of the external behavior of the program.
 
 ---
 
+## ES6 Classes
+
+*`ES6 Classes`  formalize the common JavaScript pattern of simulating class-like inheritance hierarchies using functions and prototypes. They are effectively simple sugaring over prototype-based OO, offering a convenient declarative form for class patterns which encourage interoperability.*
+
+*Classes support : `prototype-based inheritance`, `constructors`, `super calls`, `instance` and `static methods`. 
+
+---
+
+## Express Routing
+
+*`Routing` refers to how an application’s endpoints (URIs) respond to client requests.*
+
+*`Express RoutingIt` is a mini express application without all the bells and whistles of an express application, just the routing stuff.*
+
+ **Other definition**
+ 
+- `app.HTTP_method(Path, handler Function)`;
+- `Route parameters`: parameters found in the URL of the route, can be accessed by req.params.
+- `Response methods`: can send a response to the client, and terminate the request-response cycle
+- `app.all()`: handle all HTTP methods
+- `app.use()`: specify middleware as the callback function
+- `Route paths`: defined as an argument to the method, define where the request is made.
+
+---
+
 # THE END
