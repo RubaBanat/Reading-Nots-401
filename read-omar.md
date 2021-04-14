@@ -94,7 +94,7 @@
 
 *In a tree data structure, the node which has atleast one child is called as INTERNAL Node. In simple words, an internal node is a node with atleast one child.*
 
-![InternalNodes](http://www.btechsmartclass.com/data_structures/ds_images/Internal.png)
+(http://www.btechsmartclass.com/data_structures/ds_images/Internal.png)
 
 
 ---
