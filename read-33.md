@@ -1,6 +1,6 @@
 # Redux - Additional Topics
 
-## 2 -What's the best practice for "pre-loading" data into the store (on application start) in a Redux application?
+## 1 -What's the best practice for "pre-loading" data into the store (on application start) in a Redux application?
 
 *The best practice is to wrap the opening preloaded in useEffect. With this, you need to take the function outside of the props that you passed into the component.*
 
